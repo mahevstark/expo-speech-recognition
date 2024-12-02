@@ -9,7 +9,7 @@ export {
 
 // Native module
 export { ExpoSpeechRecognitionModule } from "./ExpoSpeechRecognitionModule";
-
+console.log("see if I build it")
 // Hooks
 export { useSpeechRecognitionEvent } from "./useSpeechRecognitionEvent";
 
